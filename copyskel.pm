@@ -6,6 +6,11 @@
 # To do: 
 # Make this script not overwrite existing files. 
 
+# to make this work:
+# I assume we download it to the server somewhere.
+# Then we register it with the hook system.
+# And that's as far as I'm going to get tonight.
+
 package SkelAddonModule;
 
 use warnings;
